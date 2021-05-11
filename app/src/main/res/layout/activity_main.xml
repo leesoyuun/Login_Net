@@ -15,12 +15,12 @@
             android:id="@+id/editText1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:hint="추가할 문자열 입력하세요"
+            android:hint="가족 구성원을 추가해주세요!"
             android:ems="13"/>
 
         <Button
             android:id="@+id/button1"
-            android:text="아이템 추가"
+            android:text="구성원 추가"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 
